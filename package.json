@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mcrmickben45/MCV-Tech-Blog/issues"
   },
-  "homepage": "https://github.com/mcrmickben45/MCV-Tech-Blog#readme"
+  "homepage": "https://github.com/mcrmickben45/MCV-Tech-Blog#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
